@@ -53,13 +53,15 @@ Blockchains generate revenue through transaction fees, in the case of Ethereum t
 
 As previously mentioned, the current PoW consensus incentivises miners. This is great for those who have the minimum required 32 ETH on hand and are able to afford the expensive hardware and graphics cards to run their operations. However, Ethereum miners can opt to quickly take their ETH rewards and sell at market price, covering costs and locking in a quick profit.
 
-The merge upgrade will throw away this mining model, thus lowering the barrier to entry for ETH holders who will be able to stake their coins (with no more minimum balance required) and receive rewards for their efforts in helping to secure the network. 
+The merge upgrade will throw away this mining model, thus lowering the barrier to entry for ETH holders who will be able to stake their coins and receive rewards for their efforts in helping to secure the network. 
 
-These changes however, do come at a cost. With a lower barrier to entry, more participants are expected to stake their ETH coins resulting in a lower projected APY. Although at this stage it is impossible to accurately predict a yield return rate, post merge. There are tools available that will help gauge your potential [staking rewards](https://www.stakingrewards.com/earn/ethereum-2-0/) as a validator, or through staking pools. 
+These changes however, do come at a cost. With a lower barrier to entry, more participants are expected to stake their ETH coins resulting in a lower projected APY. There are tools available that will help gauge your potential [staking rewards](https://www.stakingrewards.com/earn/ethereum-2-0/) as a [validator](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/#pos-staking-validators), or through [staking pools](https://ethereum.org/en/staking/pools/#main-content) such as [Stake Wise](https://stakewise.io/) or [Lido Finance](https://lido.fi/ethereum), with returns between 4-8% APY.
+
+ For those without the time to worry about staking pools or validator nodes thankfully, there are simpler alternatives. Platforms such as [Celsius](https://celsius.network/) offer up to 6% APY for you to lock up your crypto and let them deal with the tricky stuff!
 
 ### Summary
 
-The Merge is arguably the most anticipated event in the history of blockchain and decentralised technologies. Whether you're a long-term HODLer or watching from afar, all eyes will be on Ethereum!
+The Merge is one of the most anticipated events in the history of blockchain and decentralised technologies. Whether you're a long-term HODLer or a speculative investor watching from afar, all eyes will be on Ethereum!
 
 
  
