@@ -46,8 +46,13 @@ const Bio = () => {
         <p>
           Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
-          <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            You should follow them on Twitter
+          <br />
+          <a
+            href="https://www.finder.com.au/cryptocurrency"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            For more crypto related content check out Finder
           </a>
         </p>
       )}

@@ -27,7 +27,13 @@ const Layout = ({ location, title, children }) => {
       <footer>
         © {new Date().getFullYear()}
         {` `}
-        <a href="https://finder.com.au">Finder Cryptocurrency</a>
+        <a
+          href="https://www.finder.com.au/cryptocurrency"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Finder Cryptocurrency
+        </a>
       </footer>
     </div>
   )
