@@ -3,7 +3,6 @@ module.exports = {
     title: `Finder Cryptocurrency`,
     author: {
       name: `Billy Endres`,
-      // summary: `who lives and works in San Francisco building useful things.`,
     },
   },
   plugins: [
