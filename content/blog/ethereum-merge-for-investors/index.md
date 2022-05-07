@@ -59,9 +59,9 @@ The merge upgrade will throw away this mining model, instead replacing it with t
 
 However these changes may come at a cost. With a lower barrier to entry, more participants are expected to stake their holdings resulting in a lower projected APR as a combat to ETH inflation. There are tools available that will help you gauge your potential [staking rewards](https://www.stakingrewards.com/earn/ethereum-2-0/) as a [validator](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/#pos-staking-validators), or through [staking pools](https://ethereum.org/en/staking/pools/#main-content) such as [Stake Wise](https://stakewise.io/) or [Lido Finance](https://lido.fi/ethereum). Current returns are between 4-7% APR.
 
- For those without time to worry about staking pools or validator nodes, there are simpler alternatives. With platforms such as [Celsius](https://celsius.network/) you can lock up your crypto at up to 6% APR and let them deal with the tricky stuff.
+ For those without time to worry about staking pools or validator nodes, there are simpler alternatives. With platforms such as [Celsius](https://celsius.network/) you can lock up your crypto at up to 6% APR and let them deal with the tricky stuff!
 
-### Summary
+### Conclusion
 
 The merge is one of the most anticipated events in the history of blockchain and decentralised technologies. Whether you're a long-term HODLer or a speculative investor watching from afar, all eyes will be on Ethereum!
 
