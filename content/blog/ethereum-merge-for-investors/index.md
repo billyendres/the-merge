@@ -18,9 +18,9 @@ The merge, previously known as Eth2, is a long awaited upgrade to the Ethereum b
 
 <img src="./../../../src/images/image.png"/>
 
-### An investors perspective
+### An investor's perspective
 
-As the second largest cryptocurrency by [marketcap](https://coinmarketcap.com/currencies/ethereum/), boasting over [3000 dApps](https://www.coindesk.com/learn/2021/02/08/which-crypto-projects-are-based-on-ethereum/#:~:text=According%20to%20the%20crypto%20app,running%20on%20the%20Ethereum%20blockchain.) built on its blockchain, we know that Ethereum acts as a key foundational layer for the growth and development of much of the blockchain ecosystem. 
+As the second largest cryptocurrency by [marketcap](https://coinmarketcap.com/currencies/ethereum/), boasting over [3000 dApps](https://www.coindesk.com/learn/2021/02/08/which-crypto-projects-are-based-on-ethereum/#:~:text=According%20to%20the%20crypto%20app,running%20on%20the%20Ethereum%20blockchain.) built on its blockchain, Ethereum acts as a key foundational layer for the growth and development of much of the blockchain ecosystem. 
 
 So the question is, what does the merge mean for your investment? <br/>To help better understand the potential price response to the merge let's take a look at the on-chain data. 
 
@@ -47,7 +47,7 @@ This opens up the potential for large players to use the merge as an exit liquid
 
 Blockchain revenue is generated through transaction fees, in the case of Ethereum these fees are known as [gas](https://ethereum.org/en/developers/docs/gas/). Whether you're buying and selling NFTs, trading on DeFi exchanges or using P2E Games, every transaction on the Ethereum blockchain is paid for via a gas fee. 
 
-The table below shows how quickly these fees add up. During the recent [Yuga Labs](https://twitter.com/yugalabs) [OthersideMeta](https://twitter.com/OthersideMeta) listing, network participants were paying upward of $2,000 per transaction just to use the Ethereum blockchain and mint their NFT land plots. This resulted in gas transaction fees of over $200,000,000 USD (80,000 ETH).
+The table below shows how quickly these fees add up. During the recent [Yuga Labs](https://twitter.com/yugalabs) [OthersideMeta](https://twitter.com/OthersideMeta) listing, network participants were paying upward of $2,000 per transaction just to use the Ethereum blockchain and mint their NFT land plots. This resulted in daily gas transaction fees of over $200,000,000 USD (80,000 ETH).
 
 <img src="./../../../src/images/eth-fees.png"/>
 
@@ -59,7 +59,7 @@ The merge upgrade will throw away this mining model, lowering the barrier to ent
 
 However these changes come at a cost. With a lower barrier to entry, more participants are expected to stake their ETH coins resulting in a lower projected APR. There are tools available that will help you gauge your potential [staking rewards](https://www.stakingrewards.com/earn/ethereum-2-0/) as a [validator](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/#pos-staking-validators), or through [staking pools](https://ethereum.org/en/staking/pools/#main-content) such as [Stake Wise](https://stakewise.io/) or [Lido Finance](https://lido.fi/ethereum). Current returns are between 4-7% APR.
 
- For those without time to worry about staking pools or validator nodes, there are simpler alternatives. With platforms such as [Celsius](https://celsius.network/) you can lock up your crypto at up to 6% APR and let them deal with the tricky stuff!
+ For those without time to worry about staking pools or validator nodes, there are simpler alternatives. With platforms such as [Celsius](https://celsius.network/) you can lock up your crypto at up to 6% APR and let them deal with the tricky stuff.
 
 ### Summary
 
