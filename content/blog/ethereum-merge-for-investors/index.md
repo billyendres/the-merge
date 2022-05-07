@@ -53,11 +53,11 @@ The table below shows how quickly these fees add up. During the recent [Yuga Lab
 
 <br/>
 
-The current PoW consensus incentivises miners, dividing up gas fees and distributing them to network participants as a reward for their efforts. This is great for those who have the minimum required 32 ETH on hand and are able to afford the expensive hardware and graphics cards to run their operations.
+The current PoW consensus incentivises miners, dividing up gas fees and distributing them to network participants. This is great for those who have the minimum required 32 ETH on hand and are able to afford the expensive hardware and graphics cards to run their operations.
 
-The merge upgrade will throw away this mining model, lowering the barrier to entry for ETH holders who will be able to stake their coins and receive rewards for their efforts in helping to secure the network. 
+The merge upgrade will throw away this mining model, instead replacing it with the PoS alternative currently used on the Beacon Chain. This change will lower the barrier to entry for ETH holders looking to stake their coins and receive rewards for their efforts in helping to secure the network. 
 
-However these changes come at a cost. With a lower barrier to entry, more participants are expected to stake their ETH coins resulting in a lower projected APR. There are tools available that will help you gauge your potential [staking rewards](https://www.stakingrewards.com/earn/ethereum-2-0/) as a [validator](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/#pos-staking-validators), or through [staking pools](https://ethereum.org/en/staking/pools/#main-content) such as [Stake Wise](https://stakewise.io/) or [Lido Finance](https://lido.fi/ethereum). Current returns are between 4-7% APR.
+However these changes come at a cost. With a lower barrier to entry, more participants are expected to stake their holdings resulting in a lower projected APR as a combat to ETH inflation. There are tools available that will help you gauge your potential [staking rewards](https://www.stakingrewards.com/earn/ethereum-2-0/) as a [validator](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/#pos-staking-validators), or through [staking pools](https://ethereum.org/en/staking/pools/#main-content) such as [Stake Wise](https://stakewise.io/) or [Lido Finance](https://lido.fi/ethereum). Current returns are between 4-7% APR.
 
  For those without time to worry about staking pools or validator nodes, there are simpler alternatives. With platforms such as [Celsius](https://celsius.network/) you can lock up your crypto at up to 6% APR and let them deal with the tricky stuff.
 
