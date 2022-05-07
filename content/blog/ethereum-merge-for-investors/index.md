@@ -18,7 +18,7 @@ The merge, previously known as Eth2, is a long awaited upgrade to the Ethereum b
 
 <img src="./../../../src/images/image.png"/>
 
-### An investor's perspective
+### An investors perspective
 
 As the second largest cryptocurrency by [marketcap](https://coinmarketcap.com/currencies/ethereum/), boasting over [3000 dApps](https://www.coindesk.com/learn/2021/02/08/which-crypto-projects-are-based-on-ethereum/#:~:text=According%20to%20the%20crypto%20app,running%20on%20the%20Ethereum%20blockchain.) built on its blockchain, we know that Ethereum acts as a key foundational layer for the growth and development of much of the blockchain ecosystem. 
 
